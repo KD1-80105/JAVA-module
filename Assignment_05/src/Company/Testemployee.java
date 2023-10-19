@@ -92,7 +92,7 @@ public class Testemployee {
 				break;
 			}
 		}
-		System.out.println("-------GO DIE XDDDDDDD-------");
+		System.out.println("Visit Again");
 	}
 
 }
