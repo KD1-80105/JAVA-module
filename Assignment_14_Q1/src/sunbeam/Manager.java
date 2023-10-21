@@ -60,7 +60,7 @@ class Labor implements Emp {
 		if (hours > 300) {
 			return (0.05 * getSal());
 		}
-		return hours;
+		return 0.0;
 
 	}
 
